@@ -52,7 +52,6 @@ alias vi='vim'
 ########################
 #       exports        #
 ########################
-export http_proxy="http://internetproxy-id.swisslife-select.de:3128"
 #wpa_supplicant -i wlp3s0 -c /etc/wlan-cfg/wpa-work.conf
 #dhcpd wlp3s0
 
