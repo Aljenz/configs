@@ -158,3 +158,6 @@ echo ""
 echo -ne "${GREEN}";netinfo;
 #echo -ne "${LIGHTBLUE}Uptime for this computer is ";uptime | awk /'up/ {print $3,$4}'
 echo ""; echo ""
+
+
+# freak
